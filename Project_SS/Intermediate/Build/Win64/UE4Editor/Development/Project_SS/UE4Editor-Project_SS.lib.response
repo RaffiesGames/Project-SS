@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Project_SS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projets\Project_SS\Intermediate\Build\Win64\Project_SSEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Projets\Project_SS\Intermediate\Build\Win64\UE4Editor\Development\Project_SS\Project_SS.cpp.obj"
+"E:\Unreal Projets\Project_SS\Intermediate\Build\Win64\UE4Editor\Development\Project_SS\Project_SSCharacter.cpp.obj"
+"E:\Unreal Projets\Project_SS\Intermediate\Build\Win64\UE4Editor\Development\Project_SS\Project_SSGameMode.cpp.obj"
+"E:\Unreal Projets\Project_SS\Intermediate\Build\Win64\UE4Editor\Development\Project_SS\Project_SS.init.gen.cpp.obj"
+"E:\Unreal Projets\Project_SS\Intermediate\Build\Win64\UE4Editor\Development\Project_SS\Project_SSCharacter.gen.cpp.obj"
+"E:\Unreal Projets\Project_SS\Intermediate\Build\Win64\UE4Editor\Development\Project_SS\Project_SSGameMode.gen.cpp.obj"
+"E:\Unreal Projets\Project_SS\Intermediate\Build\Win64\UE4Editor\Development\Project_SS\Default.rc2.res"
+/OUT:"E:\Unreal Projets\Project_SS\Intermediate\Build\Win64\UE4Editor\Development\Project_SS\UE4Editor-Project_SS.lib"
+/INCLUDE:IMPLEMENT_MODULE_Project_SS

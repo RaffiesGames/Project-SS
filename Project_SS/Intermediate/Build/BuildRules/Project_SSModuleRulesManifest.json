@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projets\\Project_SS\\Source\\Project_SS\\Project_SS.Build.cs",
+		"E:\\Unreal Projets\\Project_SS\\Source\\Project_SS.Target.cs",
+		"E:\\Unreal Projets\\Project_SS\\Source\\Project_SSEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}
