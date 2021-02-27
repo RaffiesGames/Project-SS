@@ -1,2 +1,0 @@
-E:\Unreal Projets\Project_SS\Intermediate\Build\Win64\UE4Editor\Development\Project_SS\Definitions.Project_SS.h
-E:\Unreal Projets\Project_SS\Source\Project_SS\Project_SS.h
